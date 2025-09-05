@@ -85,6 +85,8 @@ SEM subject-matter experts available remotely (via phone, or video call) to clar
 
 **Privacy & Ethics:** Under Swiss Data Protection Law, voice is classified as particularly sensitive personal data. The participating speakers have consented to use the recording for voice-to-text transcription experiments. Additionally, speaker voices have been anonymized using state-of-the-art voice anonymization technology from French startup Nijta.com.
 
+![Logo](Nijta-logo-light.svg)
+
 All materials are available in the /data folder. By accessing or using the data provided, you agree to the following terms and conditions.
 
 ### Terms and Conditions
@@ -107,4 +109,4 @@ Accurate asylum interview transcriptions are critical for the SEM to make fair, 
 The State Secretariat for Migration (SEM) is responsible for all matters covered by legislation on foreign nationals and asylum seekers in Switzerland.
 
 **Protection from Persecution:** Switzerland affords temporary or long-term protection to foreign nationals who face persecution in their native countries or who must escape the ravages of war. Asylum seekers undergo an asylum procedure to determine whether they qualify for refugee status.
-*Watch this video to get an impression of an [asylum interview] (https://asylum-info.ch/en/asylum-procedure)
+*Watch this video to get an impression of an [asylum interview](https://asylum-info.ch/en/asylum-procedure)
