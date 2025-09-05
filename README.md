@@ -89,9 +89,9 @@ All materials are available in the /data folder. By accessing or using the data 
 
 ### Terms and Conditions
 The data is provided solely for the purpose of participating in the hackathon event held in Zurich, Switzerland, and for developing solutions directly related to the specific challenge you have selected. You are strictly prohibited from using the Data for any other purpose, including but not limited to:
-- Commercial use.
-- Research or development outside the scope of this hackathon challenge.
-- Personal use or any other unauthorized activities.
+- Commercial use
+- Research or development outside the scope of this hackathon challenge
+- Personal use or any other unauthorized activities
 
 The data is provided "as is" without any warranties, express or implied, including but not limited to, warranties of merchantability, fitness for a particular purpose, or non-infringement. The hackathon organizers do not guarantee the accuracy, completeness, or reliability of the data.
 
@@ -107,5 +107,4 @@ Accurate asylum interview transcriptions are critical for the SEM to make fair, 
 The State Secretariat for Migration (SEM) is responsible for all matters covered by legislation on foreign nationals and asylum seekers in Switzerland.
 
 **Protection from Persecution:** Switzerland affords temporary or long-term protection to foreign nationals who face persecution in their native countries or who must escape the ravages of war. Asylum seekers undergo an asylum procedure to determine whether they qualify for refugee status.
-*Watch this video to get an impression of an asylum interview:* https://asylum-info.ch/de/asylum-procedure
-
+*Watch this video to get an impression of an [asylum interview] (https://asylum-info.ch/en/asylum-procedure)
