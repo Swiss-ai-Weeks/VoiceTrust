@@ -83,7 +83,7 @@ SEM subject-matter experts available remotely (via phone, or video call) to clar
 - Synthetic audio recording of an asylum interview with interviewer, interviewee, and translator
 - Transcription conventions for commenting, highlighting, and tagging transcription output
 
-**Privacy & Ethics:** Under Swiss Data Protection Law, voice is classified as particularly sensitive personal data. The participating speakers have consented to use the recording for voice-to-text transcription experiments. Additionally, speaker voices have been anonymized using state-of-the-art voice anonymization technology from French startup Nijta.com.
+**Privacy & Ethics:** Under Swiss Data Protection Law, voice is classified as particularly sensitive personal data. The participating speakers have consented to use the recording for voice-to-text transcription experiments. Additionally, speaker voices have been anonymized using state-of-the-art voice anonymization technology from French startup [Nijta](https://www.nijta.com).
 
 ![Logo](Nijta-logo-light.svg)
 
@@ -100,7 +100,7 @@ The data is provided "as is" without any warranties, express or implied, includi
 Immediately following the conclusion of the hackathon event, you are obligated to permanently and securely delete all copies of the data, including any derived or processed data, from all your devices, storage media, and systems. 
 
 ### Source of Data
-The data of this respository has been provided by [the State Secretariat for Migration](https://www.sem.admin.ch/sem/en/home.html) submitting the challenge
+The data of this respository has been provided by [the State Secretariat for Migration](https://www.sem.admin.ch/sem/en/home.html) submitting the challenge.
 
 ## Why Hack?
 Accurate asylum interview transcriptions are critical for the SEM to make fair, evidence-based decisions that uphold Switzerland's commitment to providing protection to those who truly need it while maintaining public trust in the asylum system. Enhanced transcription technology enables faster, more reliable case processing, reducing administrative burden and costs for Swiss taxpayers while ensuring consistent quality even during crisis periods when application volumes surge. Most importantly, precise documentation of refugee testimonies protects vulnerable individuals by ensuring their stories are captured faithfully, giving them the best chance for a fair assessment of their protection needs.
@@ -109,4 +109,4 @@ Accurate asylum interview transcriptions are critical for the SEM to make fair, 
 The State Secretariat for Migration (SEM) is responsible for all matters covered by legislation on foreign nationals and asylum seekers in Switzerland.
 
 **Protection from Persecution:** Switzerland affords temporary or long-term protection to foreign nationals who face persecution in their native countries or who must escape the ravages of war. Asylum seekers undergo an asylum procedure to determine whether they qualify for refugee status.
-*Watch this video to get an impression of an [asylum interview](https://asylum-info.ch/en/asylum-procedure)
+**Watch this video to get an impression of an [asylum interview](https://asylum-info.ch/en/asylum-procedure)**
